@@ -10,6 +10,8 @@ The game is designed to improve mental skills through interactive challenges.
 - Simple and interactive gameplay
 
 <img width="1919" height="1079" alt="Screenshot 2026-05-03 162812" src="https://github.com/user-attachments/assets/cd410a81-1467-4875-a11d-330f75a4e065" />
+
+
 <img width="1915" height="1073" alt="Screenshot 2026-05-03 162830" src="https://github.com/user-attachments/assets/a2bab2df-e11a-4add-8e2f-d704114c7fc9" />
 
 
